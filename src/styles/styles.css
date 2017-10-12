@@ -1,0 +1,36 @@
+/* Styles */
+#app {
+  font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #4d4d4d;
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+a.active {
+  color: orange;
+}
+
+nav {
+  padding: 10px 0;
+}
+
+.die {
+  width:50px;
+  height: 50px;
+  border-radius: 5px;
+  background-color: #f0f0f0;
+  margin: 10px;
+  display: inline-block;
+  font-size: 20px;
+  line-height: 50px;
+  text-align: center;
+}
+
+.dice-roller-app {
+  text-align: center;
+  height:140px;
+}
+
+.throw-display {
+  display: inline-block;
+}

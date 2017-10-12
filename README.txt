@@ -1,4 +1,4 @@
-** Super simple interview project written by Pablo Velasco for Vail Resorts **
+** Super simple interview project written by Pablo Velasco **
 
 ** Viewing and running the app **
 
